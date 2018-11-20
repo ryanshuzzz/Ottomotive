@@ -20,7 +20,7 @@ In Termnal:
 
 For Example: If I had saved both 'Ottomotive' and 'pythonsdkmaster' to my desktop, I would run the command:
 ```
->>> cd '/Users/darrelm/Desktop/SMARTCAR WEBAPP 2/'
+>>> cd '/Users/darrelm/Desktop/Ottomotive/'
 
 ```
 
