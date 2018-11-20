@@ -58,23 +58,16 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Tornado](https://www.tornadoweb.org/) - The web framework used
+* [Python](https://www.python.org/) - 
+* [smartcar](https://smartcar.com/) - Used to get all car ingo
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
 
-* **Ryan Shu** - *Backend-Programming/html-programming* - [PurpleBooth](https://github.com/ryanshuzzz)
-* **Darrel Muonekwu** - *Backend-Programming/html-programming* - [PurpleBooth](https://github.com/darrel1925)
-* **Mylinh Pham** - *html design/Frontend-Programming* - [PurpleBooth](https://github.com/darrel1925)
+* **Ryan Shu** - *Backend-Programming/html-programming* - [Git](https://github.com/ryanshuzzz)
+* **Darrel Muonekwu** - *Backend-Programming/html-programming* - [Git](https://github.com/darrel1925)
+* **Mylinh Pham** - *html design/Frontend-Programming* - [Git](https://github.com/darrel1925)
 * **Scott Sanchez** - *Website-Design* -
 See also the list of [contributors](https://github.com/ryanshuzzz/ottomotive/contributors) who participated in this project.
 
