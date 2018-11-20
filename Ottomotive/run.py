@@ -3,8 +3,8 @@ import tornado.web
 import smartcar
 import webbrowser
 
-client_id = '60efb543-adc8-4481-b316-9866110de2b3'
-client_secret = '6de37c8e-9edc-4155-b345-7d2c92d91303'
+client_id = 'client_id'
+client_secret = 'client_secret'
 redirect_uri = 'http://localhost:5000/callback'
 
 client = smartcar.AuthClient(client_id, client_secret, redirect_uri, test_mode = True)
