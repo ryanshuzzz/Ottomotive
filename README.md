@@ -1,34 +1,29 @@
 # Ottomotive
 
-One Paragraph of project description goes here
+Ottomotive is a mock sharing-economy company with a mission of empowering those who don't have access to cars with an opportunity to make an income! We used Smartcar's API to access information from smart cars to create the interface for a web application that would allow its users to grant other users access to their vehicle in order to drive or Uber, Lyft, or for another ridesharing or diving company, earning income for themselves as well as those who are renting out their cars. 
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
+You will need:
+1.) Download the 'Ottomotive' file on the resository page
+2.) Download 'pythonsdkmaster' file on repsitory
+3.) Install Pip:
+    If you’re using Python 2.7.9 (or greater) or Python 3.4 (or greater), then PIP comes installed with Python by default. If you’re using     an older version of Python, you’ll need to use the installation described in this link                                                     https://packaging.python.org/tutorials/installing-packages/
+4.) Install tornado using pip in Termianl useing the command:
+    >>> pip install tornado
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-HOW TO IMPORT SMARTCAR AND TORNADO
-```
-
-And repeat
+In Termnal:
+1.) Cd to the directoy where the file is saved:
 
 ```
-until finished
-```
+For Example: If I had saved both 'Ottomotive' and 'pythonsdkmaster' to my desktop, I would run the command:
+>>> cd '/Users/darrelm/Desktop/SMARTCAR WEBAPP 2/'```
+
+
+
 
 End with an example of getting some data out of the system or using it for a little demo
 
