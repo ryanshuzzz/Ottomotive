@@ -18,11 +18,11 @@ You will need:
 In Termnal:
 1.) Cd to the directoy where the file is saved:
 
-```
 For Example: If I had saved both 'Ottomotive' and 'pythonsdkmaster' to my desktop, I would run the command:
->>> cd '/Users/darrelm/Desktop/SMARTCAR WEBAPP 2/'```
+```
+>>> cd '/Users/darrelm/Desktop/SMARTCAR WEBAPP 2/'
 
-
+```
 
 
 End with an example of getting some data out of the system or using it for a little demo
@@ -34,6 +34,7 @@ Explain how to run the automated tests for this system
 ### Break down into end to end tests
 
 Explain what these tests test and why
+```
 
 ```
 Give an example
