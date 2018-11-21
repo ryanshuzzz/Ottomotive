@@ -5,8 +5,8 @@ Ottomotive is a mock sharing-economy company with a mission of empowering those 
 ## Getting Started
 
 
-You will need:__
-1.) Download the 'Ottomotive' file on the resository page__
+You will need:  
+1.) Download the 'Ottomotive' file on the resository page<br />
 2.) Download 'pythonsdkmaster' file on repsitory<br />
 3.) Install Pip:
     If you’re using Python 2.7.9 (or greater) or Python 3.4 (or greater), then PIP comes installed with Python by default. If you’re using     an older version of Python, you’ll need to use the installation described in this link                                                     https://packaging.python.org/tutorials/installing-packages/
