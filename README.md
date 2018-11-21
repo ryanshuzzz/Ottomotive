@@ -16,7 +16,7 @@ You will need:
     - Client Secret<br />
     - Redirect URIs<br />
     
-    Which can all be found once you create an account with Smartcar at https://smartcar.com/<br />
+    Which can all be found once you create an account with Smartcar at https://smartcar.com/
 <br />
 ### Installing<br />
 <br />
@@ -63,7 +63,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* The Smartcar Team
+* SacHacks
+
 
