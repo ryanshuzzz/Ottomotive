@@ -8,7 +8,7 @@ Ottomotive is a mock sharing-economy company with a mission of empowering those 
 You will need:  
 1.) Download the 'Ottomotive' file from the repsitory<br />
 2.) Download 'pythonsdkmaster' file from the repsitory<br />
-3.) Install PIP:  If you’re using Python 2.7.9 (or greater) or Python 3.4 (or greater), then PIP comes installed with Python by default. If you’re using an older version of Python, you’ll need to use the installation described in [This Link](https://packaging.python.org/tutorials/installing-packages)<br /><br />
+3.) Install PIP:  If you’re using Python 2.7.9 (or greater) or Python 3.4 (or greater), then PIP comes installed with Python by default. If you’re using an older version of Python, you’ll need to use the installation described in [this link](https://packaging.python.org/tutorials/installing-packages).<br /><br />
 4.) Install tornado using pip in Termianl using the command:  
     >>> pip install tornado<br /><br />
 5.) You will also need to know your <br />
@@ -16,7 +16,7 @@ You will need:
     - Client Secret<br />
     - Redirect URIs<br />
     
-Which can all be found once you create an account with Smartcar at [Here](https://smartcar.com/)
+Which can all be found once you create an account with [Smartcar](https://smartcar.com/)
 <br />
 ### Installing
 <br />
