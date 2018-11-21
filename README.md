@@ -8,10 +8,9 @@ Ottomotive is a mock sharing-economy company with a mission of empowering those 
 You will need:  
 1.) Download the 'Ottomotive' file on the resository page<br />
 2.) Download 'pythonsdkmaster' file on repsitory<br />
-3.) Install Pip:  
-   If you’re using Python 2.7.9 (or greater) or Python 3.4 (or greater), then PIP comes installed with Python by default. If you’re          using an older version of Python, you’ll need to use the installation described in this link<br />                                        https://packaging.python.org/tutorials/installing-packages
+3.) Install Pip:  If you’re using Python 2.7.9 (or greater) or Python 3.4 (or greater), then PIP comes installed with Python by default. If you’re using an older version of Python, you’ll need to use the installation described in this link<br />                       https://packaging.python.org/tutorials/installing-packages<br /><br />
 4.) Install tornado using pip in Termianl useing the command:  
-    >>> pip install tornado<br />
+    >>> pip install tornado<br /><br />
 5.) You will also need to know your <br />
     - Client ID<br />
     - Client Secret<br />
