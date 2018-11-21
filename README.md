@@ -16,7 +16,7 @@ You will need:
     - Client Secret<br />
     - Redirect URIs<br />
     
-    Which can all be found once you create an account with Smartcar at [Here](https://smartcar.com/)
+Which can all be found once you create an account with Smartcar at [Here](https://smartcar.com/)
 <br />
 ### Installing
 <br />
