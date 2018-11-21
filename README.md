@@ -9,9 +9,9 @@ You will need:
 1.) Download the 'Ottomotive' file on the resository page<br />
 2.) Download 'pythonsdkmaster' file on repsitory<br />
 3.) Install Pip:  
-    - If you’re using Python 2.7.9 (or greater) or Python 3.4 (or greater), then PIP comes installed with Python by default. If you’re          using an older version of Python, you’ll need to use the installation described in this link<br />                                        https://packaging.python.org/tutorials/installing-packages
+   If you’re using Python 2.7.9 (or greater) or Python 3.4 (or greater), then PIP comes installed with Python by default. If you’re          using an older version of Python, you’ll need to use the installation described in this link<br />                                        https://packaging.python.org/tutorials/installing-packages
 4.) Install tornado using pip in Termianl useing the command:  
-    - >>> pip install tornado<br />
+    >>> pip install tornado<br />
 5.) You will also need to know your <br />
     - Client ID<br />
     - Client Secret<br />
@@ -36,27 +36,8 @@ For Example: If I had saved both 'Ottomotive' and 'pythonsdkmaster' to my deskto
 2.) You will be prompted to log into you vehicle makers account<br />
 3.) You will be redirected to our Ottomotive web application which will then display the information for your vehicle<br />
 
-## Running the tests
-
-???????
-Explain how to run the automated tests for this system
-
 ### Break down into end to end tests
 
-Explain what these tests test and why
-```
-what tests...
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
 
 ## Deployment
 
