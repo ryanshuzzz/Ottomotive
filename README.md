@@ -9,7 +9,7 @@ You will need:
 1.) Download the 'Ottomotive' file on the resository page<br />
 2.) Download 'pythonsdkmaster' file on repsitory<br />
 3.) Install Pip:<br />
-    If you’re using Python 2.7.9 (or greater) or Python 3.4 (or greater), then PIP comes installed with Python by default. If you’re using<br />an older version of Python, you’ll need to use the installation described in this link<br />                                              https://packaging.python.org/tutorials/installing-packages/<br />
+    If you’re using Python 2.7.9 (or greater) or Python 3.4 (or greater), then PIP comes installed with Python by default. If you’re using     an older version of Python, you’ll need to use the installation described in this link<br />                                               https://packaging.python.org/tutorials/installing-packages<br />
 4.) Install tornado using pip in Termianl useing the command:<br />
     >>> pip install tornado<br />
 5.) You will also need to know your <br />
@@ -24,17 +24,17 @@ You will need:
 In Termnal:<br />
 1.) Cd to the directoy where the file is saved:<br />
 <br />
-For Example: If I had saved both 'Ottomotive' and 'pythonsdkmaster' to my desktop, to begin the program I would run the command:<br />
+For Example: If I had saved both 'Ottomotive' and 'pythonsdkmaster' to my desktop, to begin the program I would run the command:
 ```
 >>> cd '/Users/darrelm/Desktop/Ottomotive/'
 >>> python3 run.py
 ```
 
-## Running The Program   <--- i added this
+## Running The Program   <--- i added this<br />
 
-1.) You will be redireted to a page that asks if you allow Smartcar access to your (demo) vehicle's information
-2.) You will be prompted to log into you vehicle makers account
-3.) You will be redirected to our Ottomotive web application which will then display the information for your vehicle
+1.) You will be redireted to a page that asks if you allow Smartcar access to your (demo) vehicle's information<br />
+2.) You will be prompted to log into you vehicle makers account<br />
+3.) You will be redirected to our Ottomotive web application which will then display the information for your vehicle<br />
 
 ## Running the tests
 
