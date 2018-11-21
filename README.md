@@ -6,10 +6,10 @@ Ottomotive is a mock sharing-economy company with a mission of empowering those 
 
 
 You will need:  
-1.) Download the 'Ottomotive' file on the resository page<br />
-2.) Download 'pythonsdkmaster' file on repsitory<br />
-3.) Install Pip:  If you’re using Python 2.7.9 (or greater) or Python 3.4 (or greater), then PIP comes installed with Python by default. If you’re using an older version of Python, you’ll need to use the installation described in this link<br />                       https://packaging.python.org/tutorials/installing-packages<br /><br />
-4.) Install tornado using pip in Termianl useing the command:  
+1.) Download the 'Ottomotive' file from the repsitory<br />
+2.) Download 'pythonsdkmaster' file from the repsitory<br />
+3.) Install PIP:  If you’re using Python 2.7.9 (or greater) or Python 3.4 (or greater), then PIP comes installed with Python by default. If you’re using an older version of Python, you’ll need to use the installation described in this link<br />                       https://packaging.python.org/tutorials/installing-packages<br /><br />
+4.) Install tornado using pip in Termianl using the command:  
     >>> pip install tornado<br /><br />
 5.) You will also need to know your <br />
     - Client ID<br />
@@ -18,10 +18,11 @@ You will need:
     
     Which can all be found once you create an account with Smartcar at https://smartcar.com/
 <br />
-### Installing<br />
+### Installing
 <br />
 In Termnal:<br />
-1.) Cd to the directoy where the file is saved:<br /><br />
+1.) Cd to the directoy where the file is saved:<br />
+2.) Begin the program<br /><br />
 
 For Example, If I had saved both 'Ottomotive' and 'pythonsdkmaster' to my desktop, to begin the program I would run the command:
 
