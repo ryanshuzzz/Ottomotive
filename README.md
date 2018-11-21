@@ -23,7 +23,7 @@ In Termnal:<br />
 1.) Cd to the directoy where the file is saved:<br />
 2.) Begin the program<br /><br />
 
-For Example, If I had saved both 'Ottomotive' and 'pythonsdkmaster' to my desktop, to begin the program I would run the command:
+For example, If I had saved both 'Ottomotive' and 'pythonsdkmaster' to my desktop, to begin the program I would run the command:
 
 ```
 >>> cd '/Users/darrelm/Desktop/Ottomotive/'
