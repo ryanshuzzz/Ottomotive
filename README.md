@@ -21,7 +21,7 @@ You will need:
 ### Installing<br />
 <br />
 In Termnal:<br />
-1.) Cd to the directoy where the file is saved:<br />
+1.) Cd to the directoy where the file is saved:<br /><br />
 
 For Example: If I had saved both 'Ottomotive' and 'pythonsdkmaster' to my desktop, to begin the program I would run the command:
 
@@ -29,7 +29,7 @@ For Example: If I had saved both 'Ottomotive' and 'pythonsdkmaster' to my deskto
 >>> cd '/Users/darrelm/Desktop/Ottomotive/'
 >>> python3 run.py
 ```
-## Running The Program   <--- i added this<br />
+## Running The Program   <--- i added this<br /><br />
 
 1.) You will be redireted to a page that asks if you allow Smartcar access to your (demo) vehicle's information<br />
 2.) You will be prompted to log into you vehicle makers account<br />
