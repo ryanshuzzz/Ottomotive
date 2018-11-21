@@ -14,7 +14,8 @@ You will need:
 5.) You will also need to know your <br />
     - Client ID<br />
     - Client Secret<br />
-    - Redirect URIs<br />Which can all be found once you create an account with [Smartcar](https://smartcar.com/)
+    - Redirect URIs<br />
+    Which can all be found once you create an account with [Smartcar](https://smartcar.com/)<br />
     - Your specific information will need to be included into the beinning 'Ottmotive.py' file<br /><br />
 6.) You will aslo need need to download Smartcars [Python SDK](https://github.com/smartcar/python-sdk)<br /><br />
     
