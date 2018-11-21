@@ -23,13 +23,13 @@ You will need:
 <br />
 In Termnal:<br />
 1.) Cd to the directoy where the file is saved:<br />
-<br />
+
 For Example: If I had saved both 'Ottomotive' and 'pythonsdkmaster' to my desktop, to begin the program I would run the command:
+
 ```
 >>> cd '/Users/darrelm/Desktop/Ottomotive/'
 >>> python3 run.py
 ```
-
 ## Running The Program   <--- i added this<br />
 
 1.) You will be redireted to a page that asks if you allow Smartcar access to your (demo) vehicle's information<br />
