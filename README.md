@@ -14,11 +14,9 @@ You will need:
 5.) You will also need to know your <br />
     - Client ID<br />
     - Client Secret<br />
-    - Redirect URIs<br />
+    - Redirect URIs<br />Which can all be found once you create an account with [Smartcar](https://smartcar.com/)<br />
 6.) You will need to download Smartcars [Python SDK](https://github.com/smartcar/python-sdk)<br /><br />
     
-Which can all be found once you create an account with [Smartcar](https://smartcar.com/)
-<br />
 ### Installing
 In Termnal:<br />
 1.) Cd to the directoy where the file is saved:<br />
