@@ -19,7 +19,6 @@ You will need:
 Which can all be found once you create an account with [Smartcar](https://smartcar.com/)
 <br />
 ### Installing
-<br />
 In Termnal:<br />
 1.) Cd to the directoy where the file is saved:<br />
 2.) Begin the program<br /><br />
