@@ -2,6 +2,8 @@
 
 Ottomotive is a mock sharing-economy company with a mission of empowering those who don't have access to cars with an opportunity to make an income! We used Smartcar's API to access information from smart cars to create the interface for a web application that would allow its users to grant other users access to their vehicle in order to drive or Uber, Lyft, or for another ridesharing or diving company, earning income for themselves as well as those who are renting out their cars. 
 
+In [this link](https://sachacks.hackerearth.com/sprints/sachacks/dashboard/e94f6e2/submission/), you will find the initial designs for our webpage starting from the 4th picture onward.
+
 ## Getting Started
 
 
