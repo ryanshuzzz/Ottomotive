@@ -46,7 +46,7 @@ Add additional notes about how to deploy this on a live system
 
 * [Tornado](https://www.tornadoweb.org/) - The web framework used
 * [Python](https://www.python.org/) - Used to fetch vehicle information
-* [smartcar](https://smartcar.com/) - Used to get all car ingo
+* [smartcar](https://smartcar.com/) - Used to get all car info
 
 
 ## Authors
